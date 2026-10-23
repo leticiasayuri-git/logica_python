@@ -1,0 +1,10 @@
+nome = input("Digite o seu nome: ")
+profissao = input("Qual a sua profissão: ")
+primeiro_adjetivo = input("Primeiro Adjetivo: ")
+segundo_adjetivo = input("Segundo Adjetivo: ")
+primeira_comida = input("Primeira Comida: ")
+segunda_comida = input("Segunda Comida: ")
+sentimento = input("Sentimento: ")
+
+# História Maluca
+print (f"{nome} começou hoje o seu primeiro curso na Generation Brasil. Está cursando a formação em {profissao} Achou a sua turma muito {primeiro_adjetivo} mas o instrutor era, no mínimo, {segundo_adjetivo} No almoço, comeu {primeira_comida} e {segunda_comida}enquanto revisava as suas anotações. Ao final do dia, sente-se {sentimento} mas tem a determinação de concluir a jornada.")
